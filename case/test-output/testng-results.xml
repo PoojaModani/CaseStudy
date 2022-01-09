@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27419" started-at="2022-01-09T14:02:30 IST" finished-at="2022-01-09T14:02:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27419" started-at="2022-01-09T14:02:30 IST" finished-at="2022-01-09T14:02:58 IST">
+      <class name="Demo.Test1">
+        <test-method status="PASS" signature="login()[pri:0, instance:Demo.Test1@8931cf]" name="login" duration-ms="17379" started-at="2022-01-09T14:02:30 IST" finished-at="2022-01-09T14:02:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="get_all_product()[pri:1, instance:Demo.Test1@8931cf]" name="get_all_product" duration-ms="3440" started-at="2022-01-09T14:02:48 IST" finished-at="2022-01-09T14:02:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_all_product -->
+        <test-method status="PASS" signature="create_product()[pri:2, instance:Demo.Test1@8931cf]" name="create_product" duration-ms="1702" started-at="2022-01-09T14:02:51 IST" finished-at="2022-01-09T14:02:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_product -->
+        <test-method status="PASS" signature="get_product_by_id()[pri:3, instance:Demo.Test1@8931cf]" name="get_product_by_id" duration-ms="1565" started-at="2022-01-09T14:02:53 IST" finished-at="2022-01-09T14:02:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_product_by_id -->
+        <test-method status="PASS" signature="update_product_by_id()[pri:4, instance:Demo.Test1@8931cf]" name="update_product_by_id" duration-ms="1568" started-at="2022-01-09T14:02:54 IST" finished-at="2022-01-09T14:02:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_product_by_id -->
+        <test-method status="PASS" signature="delete()[pri:5, instance:Demo.Test1@8931cf]" name="delete" duration-ms="1636" started-at="2022-01-09T14:02:56 IST" finished-at="2022-01-09T14:02:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- Demo.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
